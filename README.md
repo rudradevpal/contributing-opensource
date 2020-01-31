@@ -9,12 +9,15 @@ To start contributing to windO follow the below steps:
 	* [windO Frontend](https://github.com/OpenWindO/windO-frontend) - Angular 8, Typescript, JavaScript
 2. Fork that repository
 
-	![alt text](https://raw.githubusercontent.com/rudradevpal/contributing-opensource/master/assets/images/fork-repo.jpg "Fork a repository")
+	![alt text](assets/images/fork-repo.jpg "Fork a repository")
     
 3. Copy Git URL
-	When you fork a repository you will get the same repository under your github account. Open the Repository and copy the URL
+	When you fork a repository you will get the same repository under your github account.
 	
-	![alt text](https://raw.githubusercontent.com/rudradevpal/contributing-opensource/master/assets/images/fork-repo.jpg "Copy URL")
+	![alt text](assets/images/forked-repo.jpg "Forked Repository")
+	
+	Open the Repository and copy the URL
+	![alt text](assets/images/copy-url.jpg "Copy URL")
 	
 
 4. Clone Repository
@@ -58,4 +61,8 @@ To start contributing to windO follow the below steps:
 	git push origin feature/readme
 	```
 11. Create a pull request
-	![alt text](https://raw.githubusercontent.com/rudradevpal/contributing-opensource/master/assets/images/fork-repo.jpg "Create pull request")
+
+	![alt text](assets/images/create-pull-request.jpg "Create Pull Request")
+	
+	![alt text](assets/images/pull-request.jpg "Pull Request")
+	
