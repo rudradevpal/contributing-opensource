@@ -8,6 +8,7 @@ To start contributing to windO follow the below steps:
     * [windO Agent](https://github.com/OpenWindO/windO-agent) - Python 3.8.x
     * [windO Frontend](https://github.com/OpenWindO/windO-frontend) - Angular 8, Typescript, JavaScript
 2. Fork that repository
+		![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
     
 3. Clone Repository
 4. Make code changes
