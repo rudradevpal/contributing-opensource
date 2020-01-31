@@ -2,13 +2,13 @@
 To start contributing to windO follow the below steps:
 
 1. Choose component to work on
-  You can choose one of the following repositories
-  * [windO Docs](https://github.com/OpenWindO/windO-docs)
-  * [windO Backend](https://github.com/OpenWindO/windO-backend)
-  * [windO Backend](https://github.com/OpenWindO/windO-backend)
-  * [windO Agent](https://github.com/OpenWindO/windO-agent)
-  * [windO Frontend](https://github.com/OpenWindO/windO-frontend)
+    You can choose one of the following repositories
+    * [windO Docs](https://github.com/OpenWindO/windO-docs) - Markdown, PDF, DOCX
+    * [windO Backend](https://github.com/OpenWindO/windO-backend) - Python 3.8.x
+    * [windO Agent](https://github.com/OpenWindO/windO-agent) - Python 3.8.x
+    * [windO Frontend](https://github.com/OpenWindO/windO-frontend) - Angular 8, Typescript, JavaScript
 2. Fork that repository
+    
 3. Clone Repository
 4. Make code changes
 5. Stage changes
