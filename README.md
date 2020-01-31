@@ -25,7 +25,7 @@ To start contributing to windO follow the below steps:
 	git clone https://github.com/OpenWindO/sample-proj.git
 	```
 5. Go inside the cloned repository
-		```sh
+	```sh
 	cd <repository-dir>
 	```
 	```sh
